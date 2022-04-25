@@ -1,0 +1,36 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "private": false,
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "funding": "",
+  "man": [
+    "./README.md"
+  ],
+  "engines": {
+    "node": ">14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Hallahuz Andrii",
+  "license": "ISC",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": "",
+    "email": ""
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
